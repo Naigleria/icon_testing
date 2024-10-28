@@ -1,3 +1,4 @@
+APp en flutter tipo CRUD utilizando el patrón de diseño model-view-viewmodel (MVVM) y Provider como gestor del estado de la aplicación
 Instrucciones para ejecutar la app
 
 1.- Instalar la version de flutter 3.24.3 <br>
